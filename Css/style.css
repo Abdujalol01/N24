@@ -479,6 +479,7 @@ input,textarea{
   color: #000000;
   opacity: 0.5;
   padding: 18px 0px 18px 20px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
 }
 .universal{
   width: 343px;
