@@ -6,3 +6,6 @@ if(elModalClose){
     elModal.classList.remove("modal-open");
   });
 }
+setTimeout(function(){
+  elModal.classList.add('modal-open')
+},3000);
